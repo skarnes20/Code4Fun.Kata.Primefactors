@@ -1,4 +1,4 @@
-# Skarnes20.Kata.Primefactors
+# Code4Fun.Kata.Primefactors
 In the Prime Factors kata you write a routine that takes a number as input and return a list of the numbers prime factors.
 
 The source of this Kata is from [Uncle Bob](http://butunclebob.com/ArticleS.UncleBob.ThePrimeFactorsKata)
